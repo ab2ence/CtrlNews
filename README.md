@@ -1,4 +1,6 @@
-#**Paper Accepted**: CtrlNews: LLM-based Multi-Agent Controllable News Writing via Knowledge Gravitational Field has been accepted to EMNLP 2025
+## Paper Accepted
+
+**CtrlNews: LLM-based Multi-Agent Controllable News Writing via Knowledge Gravitational Field** has been accepted to EMNLP 2025
 
 ## Overview
 
