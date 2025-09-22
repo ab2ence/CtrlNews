@@ -1,5 +1,7 @@
 # Automated News Generation System
 
+> **Paper Accepted**: [CtrlNews: LLM-based Multi-Agent Controllable News Writing via Knowledge Gravitational Field] has been accepted to EMNLP 2025
+
 ## Overview
 
 This is an automated news generation system powered by large language models (LLMs) and a "gravitational field" approach. The system automatically generates news articles with controllable sentiment through multi-agent discussions, knowledge graph expansion, and opinion generation.
